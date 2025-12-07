@@ -1,0 +1,1 @@
+-- you can put _G.Accounts ontop of the script and run that many accounts!(decreasing the fps limit to allow you to run this script)
